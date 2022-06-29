@@ -48,8 +48,8 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "Hamza Bot MD V3" //ur bot name
-global.websitex = "https://youtube.com/shorts/LwFxfV2toxg?feature=share" //ur website
+global.botname = "🐲Vΐ℘er Bot MD V3" //ur bot name
+global.websitex = "https://youtube.com/shorts/lBzApu-k63g?feature=share" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "꧁༒☬💣𝓗ᵃᗰŻⓐ💣☬༒꧂"
 global.author = "LOⓢER"
@@ -57,7 +57,7 @@ global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['97691269356'] //ur owner tag
 global.ownernummenu = ['97691269356'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
+global.watermark = "Hamza Bot Inc." //ur watermark
 global.botscript = "https://github.com/raohamza/Hamza Bot MD3"
 global.linkz1 = "https://https://chat.whatsapp.com/Hu4qQ0FFGwOIvGNHro9iYv"
 global.linkz2 = "https://https://chat.whatsapp.com/Hu4qQ0FFGwOIvGNHro9iYv"
