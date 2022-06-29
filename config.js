@@ -49,10 +49,10 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
 global.botname = "Hamza Bot MD V3" //ur bot name
-global.websitex = "https://https://https://youtu.be/Wgmnd2ShDq4" //ur website
+global.websitex = "https://youtube.com/shorts/LwFxfV2toxg?feature=share" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Loser Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "꧁༒☬💣𝓗ᵃᗰŻⓐ💣☬༒꧂"
+global.packname = "꧁༒☬💣𝓗ᵃᗰŻⓐ💣☬༒꧂"
+global.author = "LOⓢER"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['97691269356'] //ur owner tag
